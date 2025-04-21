@@ -13,7 +13,11 @@ Transparency is a simple Fabric mod that lets you tweak player transparency in t
 <p float="left">
     <img src="demo.gif" width="500" alt="demo"/>
 </p>
+## Dependencies
 
+This mod requires the following libraries:
+
+    Cloth Config API by shedaniel - Used for the in-game configuration screen.
 ---
 
 ⭐ If you find this project useful, consider giving it a star on GitHub!

@@ -6,21 +6,23 @@ Transparency is a simple Fabric mod that lets you tweak player transparency in t
 
 - **Adjustable Player Transparency:** Use a slider to set how transparent players appear in third-person mode (0-100%).
 - **Separate Settings for You and Others:** Choose whether to apply transparency to yourself, other players, or both.
-- **Easy Config Menu:** Press O to open a config screen and change settings on the fly.
+- **Easy Config Menu:** Press `O` to open a config screen and change settings on the fly.
+
+## Dependencies
+
+This mod requires the following libraries:
+
+- **Cloth Config API** by shedaniel - Used for the in-game configuration screen. 
+- **Fabric API** - Required for running Fabric mods.
 
 ## Preview
 
 <p float="left">
     <img src="demo.gif" width="500" alt="demo"/>
 </p>
-## Dependencies
 
-This mod requires the following libraries:
-
-    Cloth Config API by shedaniel - Used for the in-game configuration screen.
 ---
 
-⭐ If you find this project useful, consider giving it a star on GitHub!
+⭐ If you like this mod, feel free to give it a star on GitHub!
 
-📜 This project is under the [MIT License](LICENSE).
-
+📜 This project is under the MIT License.

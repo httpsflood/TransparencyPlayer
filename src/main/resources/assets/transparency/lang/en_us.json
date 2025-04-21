@@ -1,0 +1,10 @@
+{
+  "config.transparency.title": "Transparency Settings",
+  "config.transparency.category": "General",
+  "config.transparency.transparency": "Player Transparency",
+  "config.transparency.applyToSelf": "Apply to Self",
+  "config.transparency.applyToSelf.tooltip": "Only works in third-person view.",
+  "config.transparency.applyToOthers": "Apply to Others",
+  "key.transparency.config": "Open Transparency Config",
+  "category.transparency": "Transparency"
+}
